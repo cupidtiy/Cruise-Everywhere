@@ -513,6 +513,7 @@ section {
 .services .icon-box {
   padding: 30px;
   position: relative;
+  align-content: left;
   overflow: hidden;
   margin: 0;
   background: #fff;
